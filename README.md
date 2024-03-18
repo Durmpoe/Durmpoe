@@ -29,7 +29,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github," />><br
 <br/>
-<h1 aligin="Left">
+<h3 aligin="Left">
+    Good knowledge
     <img src="https://skillicons.dev/icons?i=python,mysql,linux,ubuntu,kali linux," /><br>
 </div>
 
