@@ -25,11 +25,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <h1 align="Left">
-    Test
-
+    basic
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github," />><br
 <br/>
+<h1 aligin="Left">
     <img src="https://skillicons.dev/icons?i=python,mysql,linux,ubuntu,kali linux," /><br>
 </div>
 
