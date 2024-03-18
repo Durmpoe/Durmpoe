@@ -1,4 +1,4 @@
-<h1 style="text-align: center">
+<h1 style="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Pedro+Muniz!;" alt="Hi There! ; I'm Pedro Muniz!" />
 </h1>
 <h3 style="text-align: center">I am 20 years old from the Netherlands</h3>
