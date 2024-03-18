@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on petitie bot (I'm very busy so I have little time, almost no updates)
  
  🌱 I’m currently learning **Docker, hosting**
 
@@ -25,7 +25,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github," />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github," />><br>
+<br/>
     <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
