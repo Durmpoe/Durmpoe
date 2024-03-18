@@ -22,7 +22,7 @@
 
  <hr/>
  
-<h2 style="text-align: center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 style="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <section>
   <h1 style="Center">Basic</h1>
