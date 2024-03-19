@@ -24,7 +24,7 @@
  
 <h2 style="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<section>
+
   <h1 style="Center">Basic</h1>
   <div style="Center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github," alt="HTML, CSS, VSCode, Github" />
@@ -34,7 +34,7 @@
   <div style="text-align: center">
     <img src="https://skillicons.dev/icons?i=python,mysql,linux,ubuntu,kali+linux," alt="Python, MySQL, Linux, Ubuntu, Kali Linux" />
   </div>
-</section>
+
 
 <hr />
 
