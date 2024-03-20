@@ -25,12 +25,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <h1 align="center">Basic knowledge</h1>
-  <img src="https://skillicons.dev/icons?i=css,vscode,python,github" />
-  <br>
-  <br>
-  <h3 align="center">Good knowledge</h3>
+  <h1 align="center">good knowledge</h1>
   <img src="https://skillicons.dev/icons?i=html,linux,ubuntu,kali linux" />
+  <br>
+  <br>
+  <h3 align="center">basic knowledge</h3>
+  <img src="https://skillicons.dev/icons?i=css,vscode,python,github" />
 </div>
 
 <br/>
