@@ -23,27 +23,23 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<h1 align="Left">
-    basic
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github," />><br
-<br/>
-<h3 aligin="Left">
-    Good knowledge
-    <img src="https://skillicons.dev/icons?i=python,mysql,linux,ubuntu,kali linux," /><br>
+  <h1 align="center">Basic knowledge</h1>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,python,github" />
+  <br>
+  <br>
+  <h3 align="center">Good knowledge</h3>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali linux," />
 </div>
 
 <br/>
 <hr/>
 
-
 <hr />
-
 
 <br/>
 <hr/>
-
 
 </div>
 
