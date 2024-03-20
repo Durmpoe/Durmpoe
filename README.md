@@ -30,7 +30,7 @@
   <br>
   <br>
   <h3 align="center">Good knowledge</h3>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali linux,html," />
+  <img src="https://skillicons.dev/icons?i=html,linux,ubuntu,kali linux" />
 </div>
 
 <br/>
