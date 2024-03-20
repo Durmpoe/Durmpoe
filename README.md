@@ -26,11 +26,11 @@
 
 <div align="center">
   <h1 align="center">Basic knowledge</h1>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,python,github" />
+  <img src="https://skillicons.dev/icons?i=css,vscode,python,github" />
   <br>
   <br>
   <h3 align="center">Good knowledge</h3>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali linux," />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali linux,html" />
 </div>
 
 <br/>
